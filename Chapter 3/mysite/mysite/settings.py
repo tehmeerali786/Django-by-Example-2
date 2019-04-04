@@ -132,6 +132,6 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'freelanceali786@gmail.com'
-EMAIL_HOST_PASSWORD = 'YaProtectorYaMerciful786()'
+EMAIL_HOST_PASSWORD = '000000000'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
